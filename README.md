@@ -10,6 +10,8 @@ Je repository zal uiteindelijk de plek zijn waar je al je uitgewerkte opdrachten
 ```
 root
  |- 00_includes < Plaats hier al je screenshots
+ |- 00_templates < Hier vind je de templates
+ |
  |- 01_Linux_1
  |
  |- 02_Cloud_1
