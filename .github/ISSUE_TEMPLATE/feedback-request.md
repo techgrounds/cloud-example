@@ -14,6 +14,7 @@ Template voor reviewers:
 ```
 ## Samenvatting
 - Beschrijft de samenvatting het onderwerp volledig genoeg?
+- Is de samenvatting in eigen woorden geschreven?
 - Mist er cruciale informatie in de samenvatting?
 - Is de beschrijving duidelijk genoeg?
 
