@@ -1,9 +1,9 @@
-# Standup Vragen
+# Standup Questions
 
-Een standup is bedoeld om in 15 minuten afgerond te hebben. Zorg ervoor dat jij en al je teamleden beknopt antwoord geven op de volgende vragen:
+A standup is meant to be held in 15 minutes. The questions below are meant to guide through the process of the standup. Everybody should answer the questions.
 
-- Wat heb ik gedaan?
-- Wat ga ik doen?
-- Loop ik ergens tegenaan? Heb ik hierbij hulp nodig?
+  - What did you do the last day?
+  - What are you going to do today?
+  - What are the most pressing issues you are facing? And do you need help?
 
-Je kan nadat iedereen is geweest verder ingaan op specifieke problemen.
+After everybody has answered the questions, the standup is finished. You are now free to address specific issues.

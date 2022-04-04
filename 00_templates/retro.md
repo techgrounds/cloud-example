@@ -1,15 +1,15 @@
-# Retro van [Groep] van week [n]
-Scrum master: Geef iedereen 10 minuten om zijn antwoorden op deze vragen te bedenken. Schrijf daarna de antwoorden op. 
+# [Group] Retro of Week [N]
+Scrum master: Give everybody 10 minutes to answer the questions stated below. Then allow them to write them down.
 
-Iedereen: Gebruik 10 minuten om de antwoorden te bedenken op de gegeven vragen. Bespreek de antwoorden met elkaar.
+Everybody: Use 10 minutes to answer the given questions. Write the answer down.
 
-Achteraf: Plaats een kopie van de retro in je eigen repository.
+Afterwards: Place a copy of this filled out form in your repository.
 
-## Wat ging goed?
- - Voorbeeld: We gebruikten de Pomedoro techniek en dat was heel fijn om mee te werken.
+## What went well?
+ - Example: We used the pomodoro technique and we were able to get a good overview of the assignments.
 
-## Wat kan beter?
- - Voorbeeld: We deden iets te lang over onze standups.
+## What could have gone better?
+ - Example: We took a bit too long on our standups and wasted time.
 
-## Wat kunnen wij doen om het te verbeteren?
- - Voorbeeld: Tijdens een standup gaan wij elkaar beter op de rit houden.
+## What can we do to improve?
+ - Example: We could use a more efficient way of doing the standups.
