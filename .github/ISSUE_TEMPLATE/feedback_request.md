@@ -1,32 +1,32 @@
 ---
 name: Feedback Request
 about: A request to get feedback from peers.
-title: Feedback request [SUBJECT]
+title: "Feedback Request:"
 labels: ''
 assignees: ''
 
 ---
 
-# Feedback Request [SUBJECT]
+**Feedback Request [SUBJECT]**
 Permalink to file: [LINK]
 
 Template for peers for review: 
 ```
-## Summary
+**Summary**
 - Does the summary describe the subject matter fully?
 - Is the summary written in own words?
 - Is there crucial information missing in the summary?
 - Is the description clear enough?
 
-## Key Terminology
+**Key Terminology**
 - Are there missing key terms?
 - Are the key terms explained well?
 
-## Sources
+**Sources**
 - Are the sources mentioned?
 - Are the mentioned sources correct?
 
-## Excercise
+**Excercise**
 (Where applicable)
 - Is the result correct?
 - Are the experienced problems and solutions described well?
