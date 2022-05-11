@@ -2,7 +2,7 @@
 
 ## One Sentence summary of the day
 
-## Challanges
+## Challenges
 
 ## Solutions
 
@@ -12,6 +12,6 @@ ____
 
 ## One Sentence summary of the day
 
-## Challanges
+## Challenges
 
 ## Solutions

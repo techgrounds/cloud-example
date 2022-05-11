@@ -1,10 +1,10 @@
 # Example Cloud
 A template repository for the Cloud Training of TechGrounds.  
-This will be your home for storing your learning progress and your final project. At the end you will have a knowledge base of all the things you learned. And proof with the project you can start as a Cloud Engineer.
+This will be your home for storing your learning progress and your final project. At the end you will have a knowledge base of all the things you learned. And prove with the project that you can start as a Cloud Engineer.
 
-There are a few templates available for you to use. You will mainly be using the [Excersize template](../00_templates/excersize.md). You will fill the template with your own content and then commit it to your repository.
+There are a few templates available for you to use. You will mainly be using the [Excercise template](../00_templates/excersize.md). You will fill the template with your own content and then commit it to your repository.
 
-An (incomplete) example of an exersize using this template can be found in [03_Cloud_1 about S3](./sprint_2/S3.md).
+An (incomplete) example of an exercise using this template can be found in [03_Cloud_1 about S3](./sprint_2/S3.md).
 
 You can also find some templates for your projects. These will be explained further when you start your project.
 
@@ -36,7 +36,7 @@ root
 As you can see the folders for the first few weeks are already made for you. Some of them will have an `.exist`-file. You can delete this file when you start filling them with your content.
 
 ## Definition of Done
-Pushing the documentation to the repository is not the end of the assignment. We use 'the Four eyes' principle: this means that there should be two extra sets of eyes that validate and sign off your work before we consider it done. You will find the instructions for this in !!TODO!!
+Pushing the documentation to the repository is not the end of the assignment. We use 'the Four eyes' principle: this means that there should be two extra sets of eyes that validate and sign off your work before we consider it done. You will find the instructions for this in the presentation shared with you by the Learning Coach.
 
 ## MarkDown Tips
 **A complete cheatsheet can be found [here](https://devhints.io/markdown)**.

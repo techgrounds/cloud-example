@@ -2,7 +2,7 @@
 There are many types of storage that can be used to store data. These are the most common types used in the Cloud:
 
 ## File
-This is the most known storage type. You use this to interact with the storage inside your computer. File storage is storing your data in a directorystructure. You can use NFS or SMB protocols to access file storage over a network.
+This is the most known storage type. You use this to interact with the storage inside your computer. File storage is storing your data in a directory structure. You can use NFS or SMB protocols to access file storage over a network.
 
 This is the most commonly used method to share data on a network.
 
@@ -14,5 +14,5 @@ Object storage stores data in a way that is optimized for the storage of large a
 
 You can access this storage using a REST API. This makes it great for use on the internet.
 
-## Bronnen:
+## Sources:
 - https://cloudian.com/blog/object-storage-care/
